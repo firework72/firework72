@@ -41,6 +41,10 @@ Email : fir3work72@gmail.com
 
 Round 2 진출 - 2024 SCPC
 
+### 2025
+
+?위 - 2025 서울대학교 SCSC 프로그래밍 경시대회 - Division 2
+
 
 <!--
 **firework72/firework72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
